@@ -68,7 +68,7 @@ I am eager to learn industry best practices, work with teams to build scalable a
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nirmal-sai-kumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=nirmal-sai-kumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nirmal-sai-kumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nirmal-sai-kumar&icon=0&color=0)](https://visitcount.itsvg.in)
