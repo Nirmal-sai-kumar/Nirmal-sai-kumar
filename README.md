@@ -5,16 +5,17 @@
 ---
 
 ## 🎯 Objective  
-Looking for an entry-level position in software development where I can apply my programming skills, problem-solving abilities, and enthusiasm for technology to contribute to innovative projects and gain industry experience.  
-
-I am eager to learn industry best practices, work with teams to build scalable and reliable features, and contribute to innovative projects while growing my skills.  
+Looking for an entry-level position in software development where I can apply my programming skills, problem
+solving abilities, and enthusiasm for technology to contribute to innovative projects and gain industry experience.
+I am eager to learn industry best practices, work with teams to build scalable and reliable features, and contribute
+to innovative projects while growing my skills
 
 ---
 
 ## 🎓 Education  
 **Maharaj Vijayaram Gajapathi Raj College of Engineering**  
 *Bachelor of Technology in Information Technology*  
-**CGPA:** 6.47 / 10  
+ 
 
 ---
 
